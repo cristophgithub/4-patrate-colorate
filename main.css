@@ -36,9 +36,81 @@ body {
   top: 0;
   right: 0;
 }
+
 .container {
   width: 300px;
   height: calc(100vh - 40px);
   margin: 20px auto;
   background-color: #fff;
   position: relative;
+}
+#box-03 {
+  background-color: blue;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+#box-04 {
+  background-color: hsla(279, 60%, 44%, .85);
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
